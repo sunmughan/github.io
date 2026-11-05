@@ -1,10 +1,11 @@
-# Article 5 - GitHub Pages (evergreen) - Track 2 (Codeair)
-Title: A Small Business Website Checklist That Actually Matters
-Image: PENDING - generate one more image before publishing (the 4-image limit for this run was used on articles 1-4). Suggested image: a clean checklist on a laptop screen beside a small business desk, no readable text, no logos, no watermark.
-Publish: GitHub Pages, one evergreen page. Upload the image with the page.
-Link rule: exactly one link to https://codeair.tech in the article.
-
 ---
+layout: default
+title: A Small Business Website Checklist That Actually Matters
+---
+
+# A Small Business Website Checklist That Actually Matters
+
+![A small business website checklist on a laptop screen beside a small business desk]({{ "/assets/images/small-business-website-checklist.webp" | relative_url }})
 
 Most small business websites fail on the basics. Not on design. On the simple things a customer needs in the first ten seconds.
 
@@ -26,4 +27,4 @@ It answers the questions customers always ask. Price range, timings, delivery ar
 
 That is the whole list. Nothing on it is expensive. Most of it is an afternoon of honest work. But a website that passes this checklist brings in enquiries every week, while a website that fails it sits there looking nice and doing nothing.
 
-Codeair Software Solutions builds websites, AI chatbots, online stores, mobile apps, Google Business listings and SEO for businesses. We have delivered 475+ client projects with a 4.9 out of 5 rating. Read more about our work at https://codeair.tech
+Codeair Software Solutions builds websites, AI chatbots, online stores, mobile apps, Google Business listings and SEO for businesses. We have delivered 475+ client projects with a 4.9 out of 5 rating. Read more about our work at [https://codeair.tech](https://codeair.tech).
